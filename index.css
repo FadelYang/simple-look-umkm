@@ -1,0 +1,18 @@
+.product-container {
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url("./images/fachrizal-maulana-vaVdrH0hBg4-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.product-container {
+    min-height: 400px;
+    min-width: 400px;
+}
